@@ -1,28 +1,3 @@
-## <p align='center'> CALIFORNIA - A Ecommerce website - MERN </p>
-
-<img src='https://i.ibb.co/wyvjdHX/screely-1666040032945.png' width="100%"  />
-
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td>🌐Live site </td>
-      <td><a href="https://california-ecommerce.onrender.com/"><b>https://california-ecommerce.onrender.com/</b></a></td>
-    </tr>
-    <tr>
-      <td>🌐Admin Dashboard</td>
-      <td><a href="https://california-ecommerce.onrender.com/"><b>https://california-ecommerce.onrender.com/</b></a></td>
-    </tr>
-    <tr>
-      <td>👨‍💻Admin Dashboard Github repo</td>
-      <td><a href="https://github.com/chathurperera/MERN-Ecommerce-Admin/"><b>https://github.com/chathurperera/MERN-Ecommerce-Admin/</b></a></td>
-    </tr>
-      <tr>
-      <td>👨‍💻Backend Github repo</td>
-      <td><a href="https://github.com/chathurperera/MERN-Ecommerce-Backend/"><b>https://github.com/chathurperera/MERN-Ecommerce-Backend/</b></a></td>
-    </tr>
-  </tbody>
-</table>
 
 ## Built using
 
